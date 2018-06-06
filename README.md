@@ -6,7 +6,18 @@ Monitoring anomalous or suspicious activity, which can be investigated further.
 Understanding who your users are and how they access your site.
 Preempting security attacks on your server.
 
-Acess Logs and Error Logs
+
 
 
 Refernece:-https://www.manageengine.com/products/eventlog/apache-web-server-log-analyzer.html?cam=279893677&adgid=18916593157&kwd=apache%20log%20analyser&loc=9050477&gclid=Cj0KCQjwjN7YBRCOARIsAFCb9350KOrUUVFcmH_1kJpiwVpIHd1HVfrX-nH71p_EvwlhaJNrNuj22xYaApEMEALw_wcB
+
+Access Logs
+RHEL / Red Hat / CentOS / Fedora Linux Apache access file location –/var/log/httpd/access_log
+Debian / Ubuntu Linux Apache access log file location –/var/log/apache2/access.log
+
+Error Logs
+RHEL / Red Hat / CentOS / Fedora Linux Apache error file location – /var/log/httpd/error_log
+Debian / Ubuntu Linux Apache error log file location – /var/log/apache2/error.log
+FreeBSD Apache error log file location – /var/log/httpd-error.log
+
+Reference- https://blog.codeasite.com/how-do-i-find-apache-http-server-log-files/
