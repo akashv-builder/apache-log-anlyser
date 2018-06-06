@@ -21,3 +21,5 @@ Debian / Ubuntu Linux Apache error log file location – /var/log/apache2/error.
 FreeBSD Apache error log file location – /var/log/httpd-error.log
 
 Reference- https://blog.codeasite.com/how-do-i-find-apache-http-server-log-files/
+
+Creating a log analyzer that analise the apache server and monitor the access logs and error logs, place them in a seperate directories and find the important information, place them in a file and compress it in tar.gz format.
