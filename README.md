@@ -23,3 +23,11 @@ FreeBSD Apache error log file location – /var/log/httpd-error.log
 Reference- https://blog.codeasite.com/how-do-i-find-apache-http-server-log-files/
 
 Creating a log analyzer that analise the apache server and monitor the access logs and error logs, place them in a seperate directories and find the important information, place them in a file and compress it in tar.gz format.
+
+http://www.thinkplexx.com/learn/article/webperf/baslog/statwithbashandawk
+
+https://www.manageengine.com/products/eventlog/apache-web-server-log-analyzer.html?cam=279893677&adgid=18916593157&kwd=apache%20log%20analyser&loc=9050477&gclid=Cj0KCQjwjN7YBRCOARIsAFCb9350KOrUUVFcmH_1kJpiwVpIHd1HVfrX-nH71p_EvwlhaJNrNuj22xYaApEMEALw_wcB
+
+https://www.linuxjournal.com/article/9168
+
+https://www.the-art-of-web.com/system/logs/
